@@ -1,0 +1,96 @@
+.body{
+    background-color: #001935;
+}
+
+.COCbody{
+    background-color: rgb(163, 24, 52);
+}
+
+.COCbody-title{
+text-align: center;
+}
+
+.boton1 {
+    background-color: #1e416e;
+    display: inline-block;
+    padding: 5px 20px; 
+    color: #fff; 
+    text-decoration: none;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin: 150px; 
+    height:630px ;
+    width: 400px;
+    transition: transform 0.2s;
+}
+.boton2 {
+    background-color: #1e416e;
+    display: inline-block;
+    padding: 5px 20px; 
+    color: #fff; 
+    text-decoration: none;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin: 150px; 
+    height:630px ;
+    width: 400px;
+    transition: transform 0.2s;
+}
+.boton3 {
+    background-color: #1e416e;
+    display: inline-block;
+    padding: 5px 20px; 
+    color: #fff; 
+    text-decoration: none;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin: 150px; 
+    height:630px ;
+    width: 400px;
+    transition: transform 0.2s;
+}
+.boton1 img {
+    width: 100%;
+    height: auto; 
+}
+.boton2 img {
+    width: 100%;
+    height: auto; 
+}
+.boton3 img {
+    width: 100%;
+    height: auto; 
+}
+
+.boton-regresar{
+    background-color: #330000;
+    display: inline-block;
+    padding: 5px 20px; 
+    color: #fff; 
+    text-decoration: none;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.boton1:hover {
+    transform: scale(1.1);
+    background-color: #154e91; 
+}
+.boton2:hover {
+    transform: scale(1.1);
+    background-color: #154e91; 
+}
+.boton3:hover {
+    transform: scale(1.1);
+    background-color: #154e91; 
+}
+
+
+.contenedor-botones {
+    text-align: center;
+}
+
